@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:32:40.538Z",
+  "generated_at": "2026-11-03T20:53:23.009Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -85,6 +85,17 @@
       "last_pushed_at": "2026-11-03T20:32:39.534Z",
       "language": "python",
       "lines": 27
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-11-03T20:53:21.995Z",
+      "last_pushed_at": "2026-11-03T20:53:21.995Z"
     }
   }
 }
